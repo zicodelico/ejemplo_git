@@ -6,3 +6,4 @@ Este es un ejemplo para la clase de Django en la universidad de confenalco santa
 
 ## Integrantes 
 - Carlos Andres
+- Luis Carlos Pabon Cadena 
