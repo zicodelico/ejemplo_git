@@ -6,3 +6,4 @@ Este es un ejemplo para la clase de Django en la [Universidad de Confenalco Sant
 
 ## Integrantes 
 - Carlos Andres
+- Diego Useda [DiegoFerneyUsedaDiaz](https://github.com/DiegoFerneyUsedaDiaz)
