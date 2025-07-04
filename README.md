@@ -6,3 +6,4 @@ Este es un ejemplo para la clase de Django en la [Universidad de Confenalco Sant
 
 ## Integrantes 
 - Carlos Andres
+- Mónica Arias [Mokina0715](https://github.com/Mokina0715)
